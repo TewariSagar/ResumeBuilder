@@ -1,0 +1,26 @@
+{
+  "name": "resumegen",
+  "version": "1.0.0",
+  "description": "Resume generator for Facebook Messenger.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InternetExplorer7/ResumeBuilder.git"
+  },
+  "keywords": [
+    "Messenger",
+    "resume"
+  ],
+  "author": "Kaveh Khorram, Sagar Tewari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InternetExplorer7/ResumeBuilder/issues"
+  },
+  "homepage": "https://github.com/InternetExplorer7/ResumeBuilder#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
